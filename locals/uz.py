@@ -6,3 +6,5 @@ uz = {
     'contact':"Aloqa",
     'title1':"Keling sizni xam olib ketamiz",
 }
+
+x = 15
