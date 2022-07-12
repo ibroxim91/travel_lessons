@@ -17,3 +17,8 @@ def change_lang(request):
     if lang in ['uz','ru','en']:
         request.session['lang'] = lang
     return JsonResponse({"status":200})
+
+
+def main():
+    pass
+
